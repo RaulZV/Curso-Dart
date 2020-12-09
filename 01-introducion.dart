@@ -2,7 +2,6 @@ main(){
 
 
   /*
-  
   Lenguaje de programación dado a conocer en octubre de 2011 durante 
   la conferencia goto de Google. ¿Con qué fin? Busca ser una alternativa 
   moderna a JavaScript para programación web (y ahora para muchas otras cosas más)
